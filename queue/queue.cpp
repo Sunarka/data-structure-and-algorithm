@@ -35,7 +35,6 @@ public:
 };
 
 int main() {
-    cout << "hello world" << endl;
 
     Queue kantong1(5); // misalkan
 
